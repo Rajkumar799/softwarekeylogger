@@ -1,0 +1,8 @@
+fdgzdfffrzsdsf
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+it records the every keys what we are typing in keyboard<Key.cmd: <91>> Pressed.
+<Key.print_screen: <44>> Pressed.
